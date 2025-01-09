@@ -1,7 +1,7 @@
 # Sierpinski Triangle in SFML
 
 This program generates and displays the Sierpinski Triangle using recursive rendering with the SFML graphics library. It allows zooming and panning for better exploration of the fractal pattern. The Sierpinski Triangle is a fractal made by recursively subdividing an equilateral triangle into smaller equilateral triangles.
-![Sierpinski Triangle Example](images/sierpinski_triangle.png)
+![Sierpinski Triangle Example](sptringle.PNG)
 ## Features:
 - **Recursive Triangle Generation**: The program generates the Sierpinski Triangle by recursively dividing the triangle into three smaller triangles.
 - **Interactive Controls**:
